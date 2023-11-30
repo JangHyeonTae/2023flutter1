@@ -26,8 +26,8 @@ class MyApp extends StatelessWidget {
    //home: Scaffold(
    //  title:
    //),Scaffold
-      //home: DmiMain(),
-      home: DmiResult(height: 1.0,weight: 2.0),
+      home: DmiMain(),
+      //home: DmiResult(height: 1.0,weight: 2.0),
     );
   }
 }
